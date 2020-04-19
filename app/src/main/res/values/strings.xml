@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">pff</string>
+    <string name="text">spakinispakinispakinispakinispakinispakinispakinispakinispakinispakinispakinispakinispakinispakinispakinispakinispakinispakinispakinispakinispakinispakinispakinispakinispakinispakinispakinispakinispakinispakinispakinispakinispakinispakinispakinispakinispakinispakinispakinispakinispakinispakinispakinispakinispakinispakinispakinispakinispakinispakinispakinispakinispakinispakinispakinispakinispakinispakinispakinispakinispakinispakinispakinispakinispakinispakinispakinispakinispakinispakinispakiniv</string>
+    <string name="details_et_prix_hint">Details</string>
+    <string name="details_et_color_hint">Color</string>
+    <string name="details_et_prix_hint_hint">Prix</string>
+    <string name="details_et_Adress_hint">Adress</string>
+    <string name="details_et_Superficier_hint">Superficier</string>
+    <string name="details_et_Nmdechambre_hint">Chambre</string>
+    <string name="textt">aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</string>
+</resources>

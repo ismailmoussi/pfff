@@ -1,0 +1,2 @@
+rootProject.name='pff'
+include ':app'

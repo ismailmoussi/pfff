@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="Activity_orizental_margin">16dp</dimen>
+    <dimen name="main_fab_margin">16dp</dimen>
+    <dimen name="custom_par_elevetion">16dp</dimen>
+    <dimen name="custom_card_elevetion">16dp</dimen>
+    <dimen name="custom_card_elevetion_cornerraduis">16dp</dimen>
+</resources>
